@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: dbtheatre**
 
-**Developed by Gokul Vasudeva**
+**Developed by Judah Adibe**
 
 **Recommended Python Version 3.x**
 

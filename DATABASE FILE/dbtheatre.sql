@@ -1,11 +1,7 @@
--- phpMyAdmin SQL Dump
--- version 5.1.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Mar 10, 2022 at 02:17 PM
--- Server version: 10.4.22-MariaDB
--- PHP Version: 8.1.2
+
+-- CinemaFlow Database SQL Dump
+-- Updated for MySQL 9.4 compatibility
+-- Database: `dbtheatre`
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
