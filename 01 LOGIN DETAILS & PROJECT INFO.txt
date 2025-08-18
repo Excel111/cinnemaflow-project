@@ -10,7 +10,7 @@
 
 **After all, go to URL http://localhost:5000**
 
-
+x
 **Manager Login Details**
 
 Username: manager

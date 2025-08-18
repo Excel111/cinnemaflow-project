@@ -383,7 +383,8 @@ def runQuery(query):
 			host='localhost',
 			database='dbtheatre',
 			user='root',
-			password='password123')
+			password='Declan123',
+   			port=3306)
 
 		if db.is_connected():
 			print("Connected to MySQL, running query: ", query)
